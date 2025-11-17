@@ -52,7 +52,7 @@ Detailed code examples and runnable scripts are provided in the repository files
 
 If you use these ideas or the code in research or projects, please cite:
 
-Bounded Mechanistic Correspondence (BMC). saidonnet, 2024. (See PDF in this repository.)
+Bounded Mechanistic Correspondence (BMC). Saïd RAHMANI, Algeria, 2025. (See PDF in this repository.)
 
 ## License
 
